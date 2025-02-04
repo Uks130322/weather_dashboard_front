@@ -1,8 +1,34 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Weather Dashboard - MVP
+==========
 
-Currently, two official plugins are available:
+A minimalistic and functional weather dashboard built using React, Tailwind CSS, and FastAPI.
+--------
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Features
+--------------
+- Search for weather by city name.
+- Display temperature, weather description, and icon.
+- Responsive design for both mobile and desktop devices.
+- Smooth animations using Framer Motion.
+Technologies
+---------
+- Frontend: React, Tailwind CSS, Framer Motion
+- Backend: FastAPI, OpenWeatherMap API
+  
+Installation and Setup
+```bash
+git clone https://github.com/Uks130322/weather_dashboard_front.git
+cd weather-dashboard-frontend
+npm install
+```
+Start the project:
+```bash
+npm run dev
+```
+
+Backend
+--------
+https://github.com/Uks130322/weather_dashboard/
