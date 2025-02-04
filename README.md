@@ -1,3 +1,6 @@
+
+![Screenshot_2](https://github.com/user-attachments/assets/e90afafc-7ff5-4a60-b8b1-3f73a4f53f22)
+
 # React + Vite
 
 Weather Dashboard - MVP
